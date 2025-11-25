@@ -58,9 +58,9 @@ PYTHON_BUILDS/
 
 If you would like to view more of my work or discuss opportunities:
 
-- GitHub: https://github.com/kumar-gyanendra
-- LinkedIn: https://www.linkedin.com/in/krgyanendra213
-- Email: krgyanendra213@gmail.com
+- **GitHub**: https://github.com/kumar-gyanendra
+- **LinkedIn**: https://www.linkedin.com/in/krgyanendra213
+- **Email**: krgyanendra213@gmail.com
   
 
 **Thank you for reviewing this project. I am constantly enhancing my skills and eager to apply them in real-world development challenges.**
