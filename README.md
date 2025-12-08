@@ -24,7 +24,7 @@ PYTHON_BUILDS/
 │   ├── problem1.py
 │   ├── problem2.py
 │   ├── problem3.py
-│   └── ...
+│   └── ..
 │
 └── README.md             # Documentation
 ```
