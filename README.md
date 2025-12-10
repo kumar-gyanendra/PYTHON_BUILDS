@@ -7,7 +7,7 @@ A collection of Python programs, scripts, experiments, and daily builds created 
 **PYTHON_BUILDS** is a structured collection of Python solutions to coding problems from various competitive programming and interview preparation platforms.
 This repository serves as a personal practice archive where I solve, store, and review problems to improve my Python skills, strengthen my logic, and prepare for technical assessments.
 
-The goal of this repository is to:
+The goal of this repository is to:-
 
 - Build a strong foundation in Python problem-solving
 - Practice algorithms and data structures through real coding challenges
